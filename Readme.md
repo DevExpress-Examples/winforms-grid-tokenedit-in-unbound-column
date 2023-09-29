@@ -6,7 +6,7 @@
 
 # WinForms Data Grid - Use TokenEdit in an unbound column
 
-This example shows how to create a [Token Editor](docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.TokenEdit) and assign it to the Grid control's unbound column.
+This example shows how to create a [Token Editor](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.TokenEdit) and assign it to the Grid control's unbound column.
 
 
 ## Files to Review
