@@ -110,7 +110,7 @@ Namespace DxSample
             list.Add(New Employee("Mark"))
             list.Add(New Employee("Paul"))
             list.Add(New Employee("David"))
-            list.Add(New Employee("Sindy"))
+            list.Add(New Employee("Cindy"))
             list.Add(New Employee("Charlie"))
             list.Add(New Employee("James"))
             Return list
