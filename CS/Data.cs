@@ -79,7 +79,7 @@ namespace DxSample {
             list.Add(new Employee("Mark"));
             list.Add(new Employee("Paul"));
             list.Add(new Employee("David"));
-            list.Add(new Employee("Sindy"));
+            list.Add(new Employee("Cindy"));
             list.Add(new Employee("Charlie"));
             list.Add(new Employee("James"));
             return list;
